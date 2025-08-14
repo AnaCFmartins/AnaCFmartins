@@ -2,7 +2,7 @@
 
 **`Desenvolvedora FullStack`**
 
-Me chamo Ana Claudia Fernandes Martins, tenho 25 anos e sou natural de São Paulo.Atualmente, estou cursando Análise e Desenvolvimento de Sistemas na FIAP com bolsa 100% atrvés do ENEM. 
+Me chamo Ana Claudia Fernandes Martins, tenho 25 anos e sou natural de São Paulo. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas na FIAP com bolsa 100% atrvés do ENEM. 
 
 
 
